@@ -5,7 +5,7 @@
       "type": "node",
       "request": "launch",
       "name": "Debug Nest",
-      "args": "${workspaceFolder}/src/main.ts",
+      "args": "C:\\Users\\ViktorKjartansson\\source\\projects\\ile-pay-nestjs\\src\\main.ts",
       "runtimeArgs": [
         "-nolazy",
         "-r",
@@ -14,8 +14,8 @@
         "tsconfig-paths/register"
       ],
       "sourceMaps": true,
-      "envFile": "${workspaceFolder}/.env",
-      "cwd": "${workspaceRoot}",
+      "envFile": "C:\\Users\\ViktorKjartansson\\source\\projects\\ile-pay-nestjs\\.env",
+      "cwd": "C:\\Users\\ViktorKjartansson\\source\\projects\\ile-pay-nestjs",
       "console": "integratedTerminal",
       "protocol": "inspector"
     }
